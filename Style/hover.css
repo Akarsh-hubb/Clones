@@ -1,0 +1,45 @@
+
+    .amz{
+      color: rgb(0,113,133);
+    }
+    .amz:hover{
+color: rgb(199, 81, 31);
+    }
+    .add-button{
+      background-color: rgb(255,216,31);
+      border: none;
+      border-radius: 25px;
+      height: 40px;
+      width: 120px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .add-button:hover {
+    background-color: rgb(247, 202, 0);
+  }
+
+  .add-button:active {
+    opacity: 0.5;
+  }
+    .book-button{
+      background-color: rgb(255,164,28);
+      border: none;
+      border-radius: 25px;
+      height: 40px;
+      width: 120px;
+      font-size: 16px;
+      margin-left: 10px;
+      cursor: pointer;
+    }
+    .book-button:hover {
+    background-color: rgb(250, 137, 0);
+  }
+
+  .book-button:active {
+    opacity: 0.5;
+  }
+    .stock{
+      color: green;
+      font-weight: bold;
+      font-size: 25px;
+    }

@@ -1,0 +1,18 @@
+
+      .model{
+  font-family: Montserrat;
+  font-weight: bold;
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 0;
+}
+.des{
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.touch{
+  text-decoration: underline;
+  margin-top: 10px;
+}

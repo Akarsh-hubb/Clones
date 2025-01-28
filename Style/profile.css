@@ -1,0 +1,329 @@
+
+
+.req1{
+  display: inline-block;
+  box-shadow: 0 0 5px rgb(0,0,0.17);
+  width: 210px;
+  height: 320px;  
+}
+.img1{
+  object-fit: cover;
+  width: 210px;
+  height: 200px;
+margin-bottom: 0;
+}
+
+.oliver{
+  margin-top: 10px;
+font-family: arial;
+font-weight: bolder ;
+font-size: 18px;
+width: 100px;
+margin-bottom: 0;
+}
+.freind1{
+  margin-top: 5px;
+  font-family: arial;
+  font-size: 15px;
+  width: 140px;
+  color: rgb(84, 80, 80);
+  margin-bottom: 0;
+}
+.add1{
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-top: 12px;
+  font-size: 17px;
+  width: 110px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  background-color: rgb(38, 106, 233);
+}
+.add1:hover{
+  opacity: 0.9;
+}
+.oliver,.freind1,.add1{
+  display: block;
+  margin-left: 8px;
+}
+.req2{
+  margin-left: 15px;
+  vertical-align: middle;
+  vertical-align: top;
+  display: inline-block;
+  box-shadow: 0 0 5px rgb(0,0,0.17);
+  width: 210px;
+  height: 320px;
+}
+.img2{
+  object-fit: cover;
+  width: 210px;
+  height: 200px;
+margin-bottom: 0;
+}
+
+.Mimi{
+  margin-top: 10px;
+font-family: arial;
+font-weight: bolder ;
+font-size: 18px;
+width: 100px;
+margin-bottom: 0;
+}
+.freind2{
+  margin-top: 5px;
+  font-family: arial;
+  font-size: 15px;
+  width: 140px;
+  color: rgb(84, 80, 80);
+  margin-bottom: 0;
+}
+.add2{
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-top: 12px;
+  font-size: 17px;
+  width: 110px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  background-color: rgb(38, 106, 233);
+}
+.Mimi,.freind2,.add2{
+  display: block;
+  margin-left: 8px;
+}
+.add2:hover{
+  opacity: 0.9;
+}
+
+.req3{
+  margin-left: 15px;
+  vertical-align: middle;
+  vertical-align: top;
+  display: inline-block;
+  box-shadow: 0 0 5px rgb(0,0,0.17);
+  width: 210px;
+  height: 320px;
+}
+.img3{
+  object-fit: cover;
+  width: 210px;
+  height: 200px;
+margin-bottom: 0;
+}
+
+.Rex{
+  margin-top: 10px;
+font-family: arial;
+font-weight: bolder ;
+font-size: 18px;
+width: 100px;
+margin-bottom: 0;
+}
+.freind3{
+  margin-top: 5px;
+  font-family: arial;
+  font-size: 15px;
+  width: 140px;
+  color: rgb(84, 80, 80);
+  margin-bottom: 0;
+}
+.add3{
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-top: 12px;
+  font-size: 17px;
+  width: 110px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  background-color: rgb(38, 106, 233);
+}
+.add3:hover{
+  opacity: 0.9;
+}
+.Rex,.freind3,.add3{
+  display: block;
+  margin-left: 8px;
+}
+
+
+.req4{
+  margin-left: 15px;
+  vertical-align: middle;
+  vertical-align: top;
+  display: inline-block;
+  box-shadow: 0 0 5px rgb(0,0,0.17);
+  width: 210px;
+  height: 320px;
+}
+.img4{
+  object-fit: cover;
+  width: 210px;
+  height: 200px;
+margin-bottom: 0;
+}
+
+.Akarsh{
+  margin-top: 10px;
+font-family: arial;
+font-weight: bolder ;
+font-size: 18px;
+width: 100px;
+margin-bottom: 0;
+}
+.freind4{
+  margin-top: 5px;
+  font-family: arial;
+  font-size: 15px;
+  width: 140px;
+  color: rgb(84, 80, 80);
+  margin-bottom: 0;
+}
+.add4{
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-top: 12px;
+  font-size: 17px;
+  width: 110px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  background-color: rgb(38, 106, 233);
+}
+.add4:hover{
+  opacity: 0.9;
+}
+.Akarsh,.freind4,.add4{
+  display: block;
+  margin-left: 8px;
+}
+
+
+.req5{
+  margin-left: 15px;
+  vertical-align: middle;
+  vertical-align: top;
+  display: inline-block;
+  box-shadow: 0 0 5px rgb(0,0,0.17);
+  width: 210px;
+  height: 320px;
+}
+.img5{
+  object-fit: cover;
+  width: 210px;
+  height: 200px;
+margin-bottom: 0;
+}
+
+.Saksham{
+  margin-top: 10px;
+font-family: arial;
+font-weight: bolder ;
+font-size: 18px;
+width: 100px;
+margin-bottom: 0;
+}
+.freind5{
+  margin-top: 5px;
+  font-family: arial;
+  font-size: 15px;
+  width: 140px;
+  color: rgb(84, 80, 80);
+  margin-bottom: 0;
+}
+.add5{
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-top: 12px;
+  font-size: 17px;
+  width: 110px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  background-color: rgb(38, 106, 233);
+}
+.add5:hover{
+  opacity: 0.9;
+}
+.Saksham,.freind5,.add5{
+  display: block;
+  margin-left: 8px;
+}
+
+.req6{
+  margin-left: 15px;
+  vertical-align: middle;
+  vertical-align: top;
+  display: inline-block;
+  box-shadow: 0 0 5px rgb(0,0,0.17);
+  width: 210px;
+  height: 320px;
+}
+.img6{
+  object-fit: contain;
+  width: 210px;
+  height: 200px;
+margin-bottom: 0;
+}
+
+.Purushottam{
+  margin-top: 10px;
+font-family: arial;
+font-weight: bolder ;
+font-size: 18px;
+width: 100px;
+margin-bottom: 0;
+}
+.freind6{
+  margin-top: 5px;
+  font-family: arial;
+  font-size: 15px;
+  width: 140px;
+  color: rgb(84, 80, 80);
+  margin-bottom: 0;
+}
+.add6{
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-top: 12px;
+  font-size: 17px;
+  width: 110px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  background-color: rgb(38, 106, 233);
+}
+.add6:hover{
+  opacity: 0.9;
+}
+.Purushottam,.freind6,.add6{
+  display: block;
+  margin-left: 8px;
+}
